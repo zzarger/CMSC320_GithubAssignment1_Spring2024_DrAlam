@@ -19,7 +19,7 @@ Now you need to find a way using a standard git reference to **upload your answe
 
 The documentation on git is available here (https://git-scm.com/docs). Please note you should be mostly interested in the **add** command, and instructions for making a .gitignore here (https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files). 
 
-When you are ready to submit, **turn in the link to your git project with your assignment**. Please do so by **adding the link to the git project on the bottom of your PANDAS homework assignment**. 
+When you are ready to submit, **turn in the link to your git project with your assignment**. Please do so by **submitting a PDF with the github link**! This *must* work for credit! 
 
 # Extra Git Details
 
