@@ -19,6 +19,8 @@ Now you need to find a way using a standard git reference to **upload your answe
 
 The documentation on git is available here (https://git-scm.com/docs). Please note you should be mostly interested in the **add** command, and instructions for making a .gitignore here (https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files). 
 
+When you are ready to submit, **turn in the link to your git project with your assignment**. Please do so in a separate **.txt file**.
+
 # Extra Git Details
 
 There are plenty other details about git we will not discuss in this tutorial. This is simply a primer on the basic functionality of the tool. Primarily, merge conflicts and branch management can be severe problems with git repositories. 
