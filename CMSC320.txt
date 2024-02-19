@@ -1,0 +1,3 @@
+Why are you interested in taking CMSC320?
+
+I'm interested in taking CMSC320 because of its coverage of data science fundamentals and hand-on projects. I hope that the course will equip me with the practical skills required to tackle real-world data challenges.
